@@ -1,2 +1,2 @@
-# Whack-A-Mole
-Whack A Mole online game
+# Whack-a-mole-HTML
+Whack a mole game using HTML, CSS, JS
